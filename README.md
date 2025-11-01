@@ -49,3 +49,5 @@ The project uses a CSV file named **`credit card.csv`**.
 > ⚠️ **Note:** Make sure to update the dataset path inside the code:
 ```python
 data = pd.read_csv(r"_path_\credit card.csv")
+'''Download the DATABASE from here:'''
+👉 **https://www.kaggle.com/datasets/ealaxi/paysim1/data**
